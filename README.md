@@ -1,12 +1,18 @@
+<h1 align="center">Oracle PL/SQL Labs</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:8511FA&height=180&section=header&text=Oracle%20PL%2FSQL%20Labs&fontSize=34&fontColor=ffffff" alt="Banner"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=2CA5E0&center=true&vCenter=true&width=560&lines=Database+Systems+I+%E2%80%94+Course+Labs;Schemas+%C2%B7+ER+Modeling+%C2%B7+DML%2FDDL;PL%2FSQL%3A+Procedures+%C2%B7+Cursors+%C2%B7+Triggers" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Developer-000000?style=flat-square&logo=oracle&logoColor=F80000"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2CA5E0,100:8511FA&height=3&width=1000" alt="divider"/>
 </p>
 
 ## Description
@@ -56,3 +62,4 @@ To execute the scripts yourself, you need a local Oracle database and a client t
 
 ---
 <p align="center">Labs developed for the <b>Database Systems I</b> course</p>
+
